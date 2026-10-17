@@ -1,6 +1,0 @@
-Resolusi : 
-- Belajar Javascript 
-- Belajar Laravel
-- Belajar SAP
-- Belajar Phyton
-- Belajar Flutter
